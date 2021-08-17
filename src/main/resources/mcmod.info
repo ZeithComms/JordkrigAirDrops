@@ -1,0 +1,10 @@
+[
+	{
+	  "modid": "jordkrigad",
+	  "name": "Jordkrig Air Drops",
+	  "description": "Adds airdrops in a specified area that unlocks in a given time.",
+	  "version": "${version}",
+	  "mcversion": "${mcversion}",
+	  "authorList": ["Zeitheron"]
+	}
+]
